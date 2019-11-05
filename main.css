@@ -1,0 +1,36 @@
+h1{
+    background: lightseagreen;
+    border: 2px solid seagreen;
+}
+
+.float-left{
+    float: left;
+}
+
+.clear{
+    clear: both;
+}
+
+.nav{
+    width: 25%;
+    background: lightblue;
+    box-sizing: border-box;
+    padding: 1em;
+    border: 2px solid blue;
+}
+
+.main{
+    width: 50%;
+    background: lightgoldenrodyellow;
+    box-sizing: border-box;
+    padding: 1em;
+    border: 2px solid goldenrod;
+}
+
+.aside{
+    width: 25%;
+    background: lightgreen;
+    box-sizing: border-box;
+    padding: 1em;
+    border: 2px solid green;
+}
